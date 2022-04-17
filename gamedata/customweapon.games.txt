@@ -1,0 +1,52 @@
+"Games"
+{
+    "nmrih"
+	{
+		"Offsets"
+		{
+			"IsLinux"
+			{
+				"windows" "0"
+				"linux" "1"
+			}
+			"CBaseGrenade::Detonate" 		//void
+			{
+				"windows"	"222"
+				"linux"		"223"
+			}
+			"CBaseAnimating::GetAttachment" //retn bool (int, matrix3x4_t &)
+			{
+				"windows"	"210"
+				"linux"		"211"
+			}
+			"CBaseEntity::IsBaseCombatWeapon"
+			{
+				// bool ()
+				"windows" "87"
+				"linux" "88"
+			}
+			"CBaseCombatWeapon::GetWeaponID"
+			{
+				// int () const
+				"windows" "370"
+				"linux" "371"
+			}
+		}
+		"Addresses"
+		{
+			// Linux only: Address of flare gun's float blast radius
+			"CNMRiHFlareProjectile::FlyThink@BlastRadius"
+			{
+				"signature" "CNMRiHFlareProjectile::FlyThink"
+				"offset" "674"
+			}
+		}
+		"Signatures"
+		{
+			"CBaseAnimating::GetBonePosition"
+			{
+				"linux"		"@ZN14CBaseAnimating15GetBonePositionEiR6VectorR6QAngle"
+			}
+		}
+	}
+}
