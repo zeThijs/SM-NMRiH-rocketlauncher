@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\weapons\gepgun\gepguntex1_upscalenonoise"
+	//"$bumpmap"				"models\weapons\gepgun\gepguntex1_upscalenonoise_bm2"
+
+	$detail						"models\weapons\gepgun\bm_rustymetal_detail_02"
+	$detailscale				4
+	$detailblendfactor 			0.95
+
+	"$envmap" 					"env_cubemap"
+	$envmapmask 				models\weapons\gepgun\gepguntex1_envmask3
+}

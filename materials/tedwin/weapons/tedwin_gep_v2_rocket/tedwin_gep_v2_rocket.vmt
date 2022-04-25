@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "tedwin/weapons/tedwin_gep_v2_rocket/tedwin_gep_v2_rocket"
+	"$nocull" 1
+}
