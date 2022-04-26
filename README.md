@@ -15,3 +15,15 @@ You may configure your own custom weapon! I'm thinking a plasma launcher would b
 
 Requires: https://github.com/Andersso/SM-WeaponModels  . This plugin makes use of the weapon model natives provides in this plugin.
 Just add the weaponmodels.smx plugin from here, into the sourcemod/plugins directory
+
+<pre>
+
+
+
+Feel free to use the code or plugin in any way
+
+Credits:
+Dysphie  - [NMRiH] Backpack 2     - Vscript Proxy
+Andersso -  SM-WeaponModels       - Gun model overwrites, and especially viewmodel override 'hack'
+Me                                - everything else
+</pre>
