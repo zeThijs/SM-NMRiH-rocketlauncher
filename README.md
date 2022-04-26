@@ -14,4 +14,4 @@ This is done in sourcemod/configs/customweapon_config.cfg file.
 You may configure your own custom weapon! I'm thinking a plasma launcher would be a good one ;)
 
 Requires: https://github.com/Andersso/SM-WeaponModels  . This plugin makes use of the weapon model natives provides in this plugin.
-Just add the SM-WeaponModels in the sourcemod/plugins directory
+Just add the weaponmodels.smx plugin from here, into the sourcemod/plugins directory
