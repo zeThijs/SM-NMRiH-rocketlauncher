@@ -1,7 +1,7 @@
 # nmrih-projectileweapon-rocketlauncher
 Sourcemod plugin for NMRiH which enables creating custom projectile weapons :D. 
 
-![](GepGun.gif)![]
+![](GepGun.gif)
 
 By default, this^ rocket launcher GEP gun is supplied.
 
