@@ -1,4 +1,4 @@
-# nmrih-projectileweapon-rocketlauncher
+# nmrih-projectileweapon-rocketlauncher (depreciated)
 Sourcemod plugin for NMRiH which enables creating custom projectile weapons :D. 
 
 ![](GepGun.gif)
